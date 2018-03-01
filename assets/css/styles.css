@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Developer - Responsive Website Template for Developers
  * Version: 1.5
  * Author: Xiaoying Riley
@@ -542,4 +542,27 @@ iframe {
   .container {
     width: 1360px;
   }
+}
+
+/* Progress Bar*/
+.progress-bar-purple {
+      background-color: #963D97;
+}
+.progress-bar-orange {
+      background-color: #F5821F;
+}
+.progress-bar-blue {
+      background-color: #86DDCD;
+}
+.progress-bar-yellow {
+      background-color: #FDB827;
+}
+.progress-bar-green {
+      background-color: #61BB46;
+}
+.progress-bar-grey {
+      background-color: grey;
+}
+.progress-bar-red {
+      background-color: #E03A3E;
 }
