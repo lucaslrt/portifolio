@@ -566,3 +566,27 @@ iframe {
 .progress-bar-red {
       background-color: #E03A3E;
 }
+
+.center {
+      display: inline-block;
+      zoom: 1;
+      margin-left: 30%;
+      margin-right: 30%;
+
+}
+
+/*Images*/
+.profile {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.image-position {
+  background-image: url('http://placehold.it/200x400');
+}
