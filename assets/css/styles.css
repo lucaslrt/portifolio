@@ -551,8 +551,20 @@ iframe {
 .progress-bar-orange {
       background-color: #F5821F;
 }
-.progress-bar-blue {
+.progress-bar-blue-light {
       background-color: #86DDCD;
+}
+.progress-bar-blue {
+  background-color: #00A0B0;
+}
+.progress-bar-dark-blue {
+      background-color: #44427F;
+}
+.progress-bar-pink {
+      background-color: #F74474;
+}
+.progress-bar-brown {
+      background-color: #6A4A3C;
 }
 .progress-bar-yellow {
       background-color: #FDB827;
@@ -565,6 +577,9 @@ iframe {
 }
 .progress-bar-red {
       background-color: #E03A3E;
+}
+.progress-bar-dark-red {
+      background-color: #C44D58;
 }
 
 .center {
