@@ -605,3 +605,12 @@ iframe {
 .image-position {
   background-image: url('http://placehold.it/200x400');
 }
+
+.resize-25 {
+  max-width:25%;
+  max-height:25%;
+}
+.resize-50 {
+  max-width:50%;
+  max-height:50%;
+}
